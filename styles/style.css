@@ -10,4 +10,14 @@ nav{
     background-image: url(../assets/Hero-bg.png);
 
 }
-
+.head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.info-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
