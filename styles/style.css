@@ -40,3 +40,6 @@ nav{
     gap: 80px;
 
 }
+.hands{
+    background-image: url(../assets/handshake.jpg);
+}
